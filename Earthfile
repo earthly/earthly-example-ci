@@ -1,7 +1,7 @@
 VERSION 0.7
 PROJECT earthly-technologies/earthly-example-ci-project
 
-FROM alpine:3.15
+FROM alpine:3.17
 
 hello-world-pipeline:
     PIPELINE
